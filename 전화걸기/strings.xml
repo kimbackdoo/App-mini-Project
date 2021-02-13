@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">전화</string>
+
+    <string name="name1">김재훈</string>
+    <string name="area1">제주</string>
+    <string name="num1">010-1234-0001</string>
+
+    <string name="name2">훈재</string>
+    <string name="area2">제주도</string>
+    <string name="num2">010-1234-0002</string>
+</resources>
